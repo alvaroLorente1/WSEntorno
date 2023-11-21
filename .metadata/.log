@@ -110,3 +110,6 @@ org.eclipse.jgit.errors.TransportException: https://github.com/alvaroLorente1/WS
 
 !ENTRY org.eclipse.egit.ui 4 0 2023-11-21 14:21:44.942
 !MESSAGE Can't connect to any repository: https://github.com/alvaroLorente1/WSEntorno.git (https://github.com/alvaroLorente1/WSEntorno.git: not authorized)
+
+!ENTRY org.eclipse.equinox.security 1 0 2023-11-21 14:24:10.902
+!MESSAGE New keyring password generated. 
