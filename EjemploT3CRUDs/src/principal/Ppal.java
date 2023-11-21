@@ -112,6 +112,8 @@ public class Ppal {
 		System.out.println("(0) Salir");
 		System.out.println("************************************");
 		System.out.println("************************************");
+		
+		System.out.println("************************************");
 
 	}
 
